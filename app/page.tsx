@@ -244,7 +244,7 @@ const pets = [
     name: "Oliver",
     species: "Black Cat",
     image: "/images/oliver.png",
-    bio: "I don't chase. Period. I sunbathe. I banter. I vanish into the shadows. And I'm probably cooler than you.",
+    bio: "I banter. I hunt. I vanish into the shadows. And I'm probably cooler than you. Catch me prowling around outside or scampering around your rooftop. If you dare.",
     isSmall: true,
     isGentle: false,
     isMale: true,
